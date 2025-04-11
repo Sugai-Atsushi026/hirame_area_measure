@@ -1,5 +1,5 @@
 # Flounder Area Measure Program
-
+　Flounder Area Measurement Program using YOLOv5
 ## 概要
 YOLOv5を用いたヒラメの面積自動測定プログラムです。  
 ヒラメ個体と1cm四方の基準四角を同じ画像内に撮影し、自動的に面積(cm²)を算出します。
