@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
 ## 実行方法
 ```bash
-python menseki.py --weights model.pt --source data/images/
+python3 menseki.py --weights model.pt --source data/images/
 ```
 
 ## 出力
